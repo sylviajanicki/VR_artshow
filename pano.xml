@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.12" id="node1" apprev="18076">
+  <input levelingroll="0" levelbias="0.400" height="2344" overlap="1" width="2344" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000">
+    <level height="2344" preload="0" width="2344" predecode="0"/>
+    <level height="1172" preload="0" width="1172" predecode="0"/>
+    <level height="586" preload="0" width="586" predecode="0"/>
+    <level height="293" preload="1" width="293" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="232">
+    <start pan="0" fov="70" tilt="0" projection="4"/>
+    <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max pan="360" fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1"/>
+  </view>
+  <userdata source="" latitude="25.024275" title="" description="" datetime="5/9/21 3:08 PM" nodeid="node1" tags="Downloads" heading="232" author="" comment="" altitude="34.20" customnodeid="" copyright="" longitude="121.527944" info=""/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label bordercolor="0x000000" borderradius="1" height="20" background="1" textalpha="1" width="180" borderalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" enabled="0" border="1" wordwrap="1"/>
+    <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+    <hotspot title="Taipei Skyline Print" target="" description="" skinid="image_popup_1" pan="-48.43" id="Point03" tilt="-0.94" url="images/skyline.png"/>
+    <hotspot title="Zhinan Temple Print" target="" description="" skinid="image_popup" pan="-74.77" id="Point02" tilt="1.77" url="images/temple.png"/>
+    <hotspot title="Event flyer" target="" description="" skinid="image_popup" pan="-52.42" id="Point04" tilt="-19.95" url="images/Promotion.jpg"/>
+    <hotspot title="AR instructions" target="" description="" skinid="image_popup" pan="-36.37" id="Point05" tilt="-18.34" url="images/tablet sign.png"/>
+    <hotspot title="About the artist" target="" description="" skinid="image_popup" pan="-46.52" id="Point06" tilt="-16.33" url="images/artist bio.jpg"/>
+    <hotspot title="Jianguo Flower Market Print" target="" description="" skinid="image_popup" pan="-94.24" id="Point07" tilt="0.44" url="images/flower-market.png"/>
+    <hotspot title="Postcards" target="" description="" skinid="image_popup" pan="-78.09" id="Point09" tilt="-16.58" url="images/postcards.jpg"/>
+    <hotspot title="Yangmingshan Print" target="" description="" skinid="image_popup" pan="-106.14" id="Point08" tilt="0.4" url="images/Yangmiingshan.png"/>
+    <hotspot title="Minami Zephyr Cafe" target="" description="" skinid="image_popup" pan="-306.73" id="Point10" tilt="-9.53" url="images/Minami.jpg"/>
+    <hotspot title="Treasure Hill Print" target="" description="" skinid="image_popup" pan="-175.36" id="Point11" tilt="-1.17" url="images/treasure-hill.png"/>
+    <hotspot title="Camphorwood Trail Print" target="" description="" skinid="image_popup" pan="-184.49" id="Point12" tilt="-2.03" url="images/camphorwood-trail.png"/>
+    <hotspot title="About the Exhibition" target="" description="" skinid="image_popup" pan="-20.9" id="Point01" tilt="-5.79" url="images/Project Description.jpg"/>
+    <hotspot title="Dihua Street Print" target="" description="" skinid="image_popup" pan="-201.99" id="Point13" tilt="-2.31" url="images/Dihua-street.png"/>
+    <hotspot title="Sanxiantai Print" target="" description="" skinid="image_popup" pan="-251.91" id="Point14" tilt="-1.64" url="images/Sanxiantai.png"/>
+    <hotspot title="Yongkang Park Print" target="" description="" skinid="image_popup" pan="-274.6" id="Point15" tilt="-1.39" url="images/Yongkang.png"/>
+  </hotspots>
+  <media/>
+  <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="20" zoomin="0" blendtime="1" zoomout="0" zoomfov="20" zoomafterinfov="90" enabled="1" type="crossdissolve"/>
+  <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control sensitivity="8" lockedwheel="0" invertwheel="0" contextprojections="0" rubberband="0" invertcontrol="1" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" lockedmouse="0" contextfullscreen="1" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0"/>
+</panorama>
